@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\KPK-Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\1\Desktop\KPK-Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\1\Desktop\KPK-Exam\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\1\Desktop\KPK-Exam\ConsoleApplication1\bin\Debug\PowerCollections.dll
+C:\Users\1\Desktop\KPK-Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\1\Desktop\KPK-Exam\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

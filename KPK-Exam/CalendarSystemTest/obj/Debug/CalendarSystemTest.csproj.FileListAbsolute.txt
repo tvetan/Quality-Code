@@ -1,0 +1,16 @@
+C:\Users\1\Desktop\CalendarSystemTest\bin\Debug\CalendarSystemTest.dll
+C:\Users\1\Desktop\CalendarSystemTest\bin\Debug\CalendarSystemTest.pdb
+C:\Users\1\Desktop\CalendarSystemTest\bin\Debug\ConsoleApplication1.exe
+C:\Users\1\Desktop\CalendarSystemTest\bin\Debug\PowerCollections.dll
+C:\Users\1\Desktop\CalendarSystemTest\bin\Debug\ConsoleApplication1.pdb
+C:\Users\1\Desktop\CalendarSystemTest\obj\Debug\CalendarSystemTest.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\CalendarSystemTest\obj\Debug\CalendarSystemTest.dll
+C:\Users\1\Desktop\CalendarSystemTest\obj\Debug\CalendarSystemTest.pdb
+C:\Users\1\Desktop\KPK-Exam\CalendarSystemTest\bin\Debug\CalendarSystemTest.dll
+C:\Users\1\Desktop\KPK-Exam\CalendarSystemTest\bin\Debug\CalendarSystemTest.pdb
+C:\Users\1\Desktop\KPK-Exam\CalendarSystemTest\obj\Debug\CalendarSystemTest.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\KPK-Exam\CalendarSystemTest\obj\Debug\CalendarSystemTest.dll
+C:\Users\1\Desktop\KPK-Exam\CalendarSystemTest\obj\Debug\CalendarSystemTest.pdb
+C:\Users\1\Desktop\KPK-Exam\CalendarSystemTest\bin\Debug\ConsoleApplication1.exe
+C:\Users\1\Desktop\KPK-Exam\CalendarSystemTest\bin\Debug\PowerCollections.dll
+C:\Users\1\Desktop\KPK-Exam\CalendarSystemTest\bin\Debug\ConsoleApplication1.pdb
